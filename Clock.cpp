@@ -4,7 +4,7 @@
 #include "clock.h"
 // add comment
 using namespace std;
-
+//another comment
 Clock::Clock()
 {
 	hour = 12;
