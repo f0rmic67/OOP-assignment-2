@@ -5,6 +5,7 @@
 // add comment
 using namespace std;
 //another comment
+//comment #3
 Clock::Clock()
 {
 	hour = 12;
