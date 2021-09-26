@@ -2,7 +2,7 @@
 #include <string>
 #include <stdlib.h>
 #include "clock.h"
-
+// add comment
 using namespace std;
 
 Clock::Clock()
